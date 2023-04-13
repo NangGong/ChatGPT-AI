@@ -46,7 +46,7 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          如果你觉得此项目对你有帮助
+          如果你觉得此项目对你有帮助，请给予一点
           <a
             class="text-blue-600 dark:text-blue-500"
             href="http://dp.ngnmhappy.cyou/photo.html"
